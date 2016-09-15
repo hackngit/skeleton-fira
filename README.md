@@ -12,7 +12,7 @@ There are a couple ways to download Skeleton:
 
 ## The Art and Design Hub
 
-This repo is designed as the skeleton for [The Art and Design Hub ](http://www.artdesignhub.org)
+This repo is designed as the skeleton for [The Art and Design Hub ](http://www.artdesignhub.org) with the Fira Sans font.
 
 ## Acknowledgement
 
