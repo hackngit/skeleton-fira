@@ -421,3 +421,18 @@ there.
 .main_nav {
   padding-top: 1.5%;
 }
+
+/* Footer Class
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+ul.social {
+  display: block;
+  margin: 5% 0;
+  list-style-type: 0;
+  text-align: left;
+}
+
+ul.social li {
+  font-size: 3em;
+  display: inline;
+  padding: 0 2%;
+}
